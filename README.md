@@ -17,7 +17,7 @@
 # F
 
 ### <a name="functionaljs"></a>Functional JS
-- [...](#)
+- [Introduction to Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
 
 
 # J
