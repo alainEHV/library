@@ -1,6 +1,6 @@
 # A
 
-### <a name="autoprefixer"></a>Autoprefixer
+### Autoprefixer
 - [Github](https://github.com/postcss/autoprefixer)
 - also see:
   - [PostCSS](#postcss)
@@ -20,7 +20,7 @@
 - ["A Complete Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
-### <a name="functionaljs"></a>Functional JS
+### Functional JS
 - [Introduction to Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
 
 
@@ -44,7 +44,7 @@
 ### Performance
 - [Web perf 101](https://3perf.com/talks/web-perf-101/)
 
-### <a name="postcss"></a>PostCSS
+### PostCSS
 - [Homepage](https://postcss.org/)
 - also see:
   - [Autoprefixer](#autoprefixer)
