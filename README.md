@@ -9,10 +9,9 @@
 # B
 
 ### BEM
-- [Homepage](#)
-- [CSS Wizardry](#)
-- [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
-- [BEM for everyone else](https://medium.com/@davehouse_80809/bem-for-everyone-else-89ccc8ad66f2)
+- ["BEM by example"](https://seesparkbox.com/foundry/bem_by_example)
+- ["MindBEMding – getting your head ’round BEM syntax"](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [BEM Homepage](http://getbem.com/introduction/)
 
 
 # F
