@@ -16,8 +16,19 @@
 
 # F
 
+### Flexbox
+- ["A Complete Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+
 ### <a name="functionaljs"></a>Functional JS
 - [Introduction to Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+
+
+# G
+
+### Grid
+- ["A complete Guide to Grid"](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid Garden](https://cssgridgarden.com/)
 
 
 # J
@@ -26,6 +37,7 @@
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
 - also see:
   - [Functional JS](#functionaljs)
+
 
 # P
 
@@ -36,3 +48,10 @@
 - [Homepage](https://postcss.org/)
 - also see:
   - [Autoprefixer](#autoprefixer)
+
+
+# S
+
+### SCSS
+- [SASSMeister - The SASS Playground](https://www.sassmeister.com)
+- [SASS / SCSS Basics](https://sass-lang.com/guide)
