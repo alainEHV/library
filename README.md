@@ -18,7 +18,7 @@
 
 ### Events
 - [Event loop explainer](https://github.com/atotic/event-loop/blob/master/README.md)
-- [ In the Loop](https://youtu.be/cCOL7MC4Pl0)
+- [📺 In the Loop](https://youtu.be/cCOL7MC4Pl0)
 - ["Understanding Event Emitters"](https://css-tricks.com/understanding-event-emitters/)
 
 
