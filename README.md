@@ -9,8 +9,8 @@
 # B
 
 ### BEM
-- ["BEM by example"](https://seesparkbox.com/foundry/bem_by_example)
-- ["MindBEMding – getting your head ’round BEM syntax"](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [📝 BEM by example](https://seesparkbox.com/foundry/bem_by_example)
+- [📝 MindBEMding – getting your head ’round BEM syntax](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 - [BEM Homepage](http://getbem.com/introduction/)
 
 
@@ -19,27 +19,27 @@
 ### Events
 - [Event loop explainer](https://github.com/atotic/event-loop/blob/master/README.md)
 - [📺 In the Loop](https://youtu.be/cCOL7MC4Pl0)
-- ["Understanding Event Emitters"](https://css-tricks.com/understanding-event-emitters/)
+- [📝 Understanding Event Emitters](https://css-tricks.com/understanding-event-emitters/)
 
 
 # F
 
 ### Flexbox
-- ["A Complete Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [📝 A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ### Functional JS
-- [Introduction to Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+- [📝 Introduction to Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
 
 
 # G
 
 ### Git
-- [A Quick Guide to Git](https://flaviocopes.com/git/)
+- [📝 A Quick Guide to Git](https://flaviocopes.com/git/)
 - [Oh shit, Git](https://ohshitgit.com)
 
 ### Grid
-- ["A complete Guide to Grid"](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [📝 A complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid Garden](https://cssgridgarden.com/)
 
 
