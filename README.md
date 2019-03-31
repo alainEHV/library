@@ -37,6 +37,8 @@
 ### Git
 - [📝 A Quick Guide to Git](https://flaviocopes.com/git/)
 - [Oh shit, Git](https://ohshitgit.com)
+- [Git Commands](https://github.com/bpassos/git-commands)
+- [Git Cheatsheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Grid
 - [📝 A complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -55,6 +57,7 @@
 
 ### Performance
 - [Web perf 101](https://3perf.com/talks/web-perf-101/)
+- [📝 Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 
 ### PostCSS
 - [Homepage](https://postcss.org/)
@@ -67,3 +70,7 @@
 ### SCSS
 - [SASSMeister - The SASS Playground](https://www.sassmeister.com)
 - [SASS / SCSS Basics](https://sass-lang.com/guide)
+
+### Service Workers
+- [📝 Write your First Service Worker in 5 Minutes](https://davidwalsh.name/write-your-first-service-worker-in-5-minutes)
+
