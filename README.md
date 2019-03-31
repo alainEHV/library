@@ -26,6 +26,10 @@
 
 # G
 
+### Git
+- [A Quick Guide to Git](https://flaviocopes.com/git/)
+- [Oh shit, Git](https://ohshitgit.com)
+
 ### Grid
 - ["A complete Guide to Grid"](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid Garden](https://cssgridgarden.com/)
