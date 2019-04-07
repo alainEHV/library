@@ -29,6 +29,7 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ### Functional JS
+- [📝 Functional Programming with Javascript in 3 Tips](https://medium.com/@alexnault/functional-programming-with-javascript-in-3-tips-f282934947e5)
 - [📝 Introduction to Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
 
 
