@@ -54,6 +54,13 @@
   - [Functional JS](#functionaljs)
 
 
+# L
+
+### Lazy Loading
+- [📝 Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+- [Lazy loading in IE / Edge](https://msdn.microsoft.com/en-us/ie/dn369270(v=vs.94))
+
+
 # P
 
 ### Performance
