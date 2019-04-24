@@ -73,6 +73,12 @@
   - [Autoprefixer](#autoprefixer)
 
 
+# R
+
+### Resource Hints
+- [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+
+
 # S
 
 ### SCSS
