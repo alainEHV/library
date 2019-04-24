@@ -76,7 +76,7 @@
 # R
 
 ### Resource Hints
-- [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+- [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
 
 
 # S
