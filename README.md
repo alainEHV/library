@@ -69,6 +69,9 @@
 
 # P
 
+### Parallax
+- [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing)
+
 ### Performance
 - [Web perf 101](https://3perf.com/talks/web-perf-101/)
 - [📝 Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
