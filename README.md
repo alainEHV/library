@@ -18,6 +18,7 @@
 
 ### CSS
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+- [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning/blob/master/readme.md)
 
 
 # E
