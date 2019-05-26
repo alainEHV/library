@@ -46,6 +46,7 @@
 - [Oh shit, Git](https://ohshitgit.com)
 - [Git Commands](https://github.com/bpassos/git-commands)
 - [Git Cheatsheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [📝 Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 
 ### Grid
 - [📝 A complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
