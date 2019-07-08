@@ -104,3 +104,10 @@
 
 ### Tooling
 - [Front End Developer Tools](https://github.com/OsamaElzero/Frontend-Tools)
+
+
+
+# W
+
+### Web Share API
+- [📝 How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
