@@ -1,5 +1,9 @@
 # A
 
+### Angular
+- [web.dev](https://web.dev/angular)
+
+
 ### Autoprefixer
 - [Github](https://github.com/postcss/autoprefixer)
 - also see:
@@ -85,6 +89,9 @@
 
 
 # R
+
+### React
+- [web.dev](https://web.dev/react)
 
 ### Resource Hints
 - [Preload, prefetch and other &lt;link&gt; tags](https://3perf.com/blog/link-rels/)
