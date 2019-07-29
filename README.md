@@ -62,6 +62,7 @@
 
 ### Javascript
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
+- [Javascript Clean Code - Best Practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
 - also see:
   - [Functional JS](#functionaljs)
 
