@@ -3,6 +3,8 @@
 ### Angular
 - [web.dev](https://web.dev/angular)
 
+### API
+- [Public APIs](https://github.com/public-apis/public-apis/)
 
 ### Autoprefixer
 - [Github](https://github.com/postcss/autoprefixer)
