@@ -99,6 +99,11 @@
 ### Progress tracker
 - [Progress tracker](https://nigelotoole.github.io/progress-tracker/)
 
+### Promise API
+- [2ality] (https://2ality.com/2016/10/understanding-promises.html)
+- [David Walsh Blog] (https://davidwalsh.name/promises)
+- [Promises 101] (https://bitsofco.de/javascript-promises-101/)
+
 
 # R
 
