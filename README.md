@@ -27,6 +27,12 @@
 - [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning/blob/master/readme.md)
 
 
+# D
+
+### Dialog
+- [Hands-on with Dialog](https://css-tricks.com/some-hands-on-with-the-html-dialog-element/)
+
+
 # E
 
 ### Events
