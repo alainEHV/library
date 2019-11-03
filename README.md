@@ -25,6 +25,7 @@
 ### CSS
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 - [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning/blob/master/readme.md)
+- [Code Smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css/)
 
 
 # D
